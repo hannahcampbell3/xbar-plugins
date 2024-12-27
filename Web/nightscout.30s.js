@@ -2,7 +2,7 @@
 /* jshint esversion: 6 */
 
 /*
-<xbar.title>BitBar Nightscout Plugin</xbar.title>
+<xbar.title>https://charlescampbell.us.nightscoutpro.com</xbar.title>
 <xbar.version>1.0</xbar.version>
 <xbar.author>Charlie Chrisman</xbar.author>
 <xbar.author.github>cachrisman</xbar.author.github>
